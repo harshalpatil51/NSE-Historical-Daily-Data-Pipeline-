@@ -1,0 +1,9 @@
+We used Render for postgress database connection.
+
+Hostname : dpg-d3h0ls15pdvs73es4ufg-a
+Port : 5432
+Database : nse_data_pipeline
+UserNAme : harshalpatil
+Password : Zy2EAJILUiZQsmDonPkQcurww88P95AA
+Intermal Database URL : postgresql://harshalpatil:Zy2EAJILUiZQsmDonPkQcurww88P95AA@dpg-d3h0ls15pdvs73es4ufg-a/nse_data_pipeline
+External Database URL : postgresql://harshalpatil:Zy2EAJILUiZQsmDonPkQcurww88P95AA@dpg-d3h0ls15pdvs73es4ufg-a.singapore-postgres.render.com/nse_data_pipeline
